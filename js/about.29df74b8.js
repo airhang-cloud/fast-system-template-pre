@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["about"],{f820:function(e,n,t){"use strict";t.r(n);var o=t("7a23"),c={name:"index"},r=t("6b0d");t=t.n(r);n.default=t()(c,[["render",function(e,n,t,c,r,a){var b=Object(o.resolveComponent)("container-box");return Object(o.openBlock)(),Object(o.createBlock)(b,{title:"案例模板",subtitle:"关于"})}]])}}]);
